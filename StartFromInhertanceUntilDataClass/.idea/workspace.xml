@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54e2a63c-39cb-48b3-a452-b4bd1d642274" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StartFromInhertanceUntilDataClass.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StartFromInhertanceUntilDataClass/BasicInfoProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StartFromInhertanceUntilDataClass/FancyInfoProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StartFromInhertanceUntilDataClass/META-INF/StartFromInhertanceUntilDataClass.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StartFromInhertanceUntilDataClass/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StartFromInhertanceUntilDataClass/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StartFromInhertanceUntilDataClass/PersonInfoProvider$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StartFromInhertanceUntilDataClass/PersonInfoProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StartFromInhertanceUntilDataClass/PersonInfoProviderKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StartFromInhertanceUntilDataClass/SessionInfoProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FancyInfoProvider.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PersonInfoProvider.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XAHL3lPHhoM1tJe85bqoxG8Pbz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PersonInfoProviderKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="StartFromInhertanceUntilDataClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="PersonInfoProviderKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.PersonInfoProviderKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54e2a63c-39cb-48b3-a452-b4bd1d642274" name="Default Changelist" comment="" />
+      <created>1580481919864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580481919864</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="965" height="189" key="GridCell.Tab.0.bottom" timestamp="1580486865231">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="965" height="189" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1580486865231" />
+    <state width="965" height="189" key="GridCell.Tab.0.center" timestamp="1580486865229">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="965" height="189" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1580486865229" />
+    <state width="965" height="189" key="GridCell.Tab.0.left" timestamp="1580486865228">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="965" height="189" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1580486865228" />
+    <state width="965" height="189" key="GridCell.Tab.0.right" timestamp="1580486865230">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="965" height="189" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1580486865230" />
+    <state x="356" y="29" width="1197" height="1051" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580482017148">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="356" y="29" width="1197" height="1051" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1580482017148" />
+  </component>
+</project>
